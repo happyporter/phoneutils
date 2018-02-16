@@ -1,7 +1,8 @@
 # phoneutils
 
 <pre>
-com.google.i18n.phonenumbers 를 기반으로 휴대폰번호 저장(노말라이징), 변환(파싱), 출력(포매팅) 관련 기능을 수행하는 간단한 유틸입니다.
+- 휴대폰번호 저장(노말라이징), 변환(파싱), 출력(포매팅) 관련 기능을 수행하는 간단한 유틸입니다.
+- com.google.i18n.phonenumbers 기반
 </pre>
 
 ## 1. 캄보디아 (KH)
